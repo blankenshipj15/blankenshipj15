@@ -40,6 +40,7 @@ This GitHub profile highlights a selection of my academic projects. I hope you f
 - Demonstrates Steger-Warming flux vector splitting in generalized coordinate system
 - Improved convergence through local time-stepping
 - Flow Field Visualizations!! (with shock capturing... pretty sweet)
+![](https://github.com/blankenshipj15/euler-solver/blob/main/DensityandMachFine.jpg)
 
 ---
 
@@ -49,6 +50,7 @@ This GitHub profile highlights a selection of my academic projects. I hope you f
 
 - Completed in Python with documentation generated through Sphinx
 - If you didn't check out the documentation, you really should ↑↑↑↑
+![](https://github.com/blankenshipj15/NRE7203/blob/main/documentation/projects/twostep_results/reconstructedPower.png)
 
 ---
 
