@@ -1,16 +1,59 @@
-## Hi there 👋
+# Thanks for visiting my GitHub!
 
-<!--
-**blankenshipj15/blankenshipj15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate student in Mechanical Engineering at **Georgia Tech**, with a background in **Nuclear Engineering**. My academic and professional interests lie at the intersection of:
 
-Here are some ideas to get you started:
+- **Numerical methods**
+- **Heat transfer**
+- **Fluid dynamics**
+- **Reactor physics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive on solving challenging engineering problems that can't be tackled analytically—whether it's modeling supersonic compressible flows or implementing nodal methods for reactor analysis. I find deep satisfaction in not just building these tools, but also **visualizing the solutions** to better understand the underlying physics.
+
+This GitHub profile highlights a selection of my academic projects. I hope you find them as interesting as I’ve found them rewarding to work on!
+
+
+---
+
+## Areas of Expertise
+
+- Numerical Heat Transfer
+- Computational Fluid Dynamics (CFD)
+- Finite Volume / Finite Difference Methods
+- Scientific Computing (MATLAB, Python, C++ (just getting started))
+
+---
+
+##  Selected Projects
+
+### [Numerical Heat Transfer](https://github.com/blankenshipj15/Numerical_HT)
+> A collection of steady state and transient solvers for various heat transfer applications
+
+- Projects completed with Python, MATLAB, C++
+- Current progress includes transient (implicit) solvers using TDMA for interative solving on 2D domains
+
+---
+
+### [CFD Solver for Compressible Flow](https://github.com/blankenshipj15/euler-solver)
+> A custom Euler-solver used to solve supersonic flow through a scramjet inlet resonator
+
+- Completed in MATLAB
+- Demonstrates Steger-Warming flux vector splitting in generalized coordinate system
+- Improved convergence through local time-stepping
+- Flow Field Visualizations!! (with shock capturing... pretty sweet)
+
+---
+
+### [Advanced Reactor Physics Methods](https://github.com/blankenshipj15/NRE7203)
+> A collection of reactor physics topics ranging from group constant generation to pin-power reconstruction
+> Check out all the details here! [Reactor Physics Documentation](https://blankenshipj15.github.io/NRE7203/html/index.html)
+
+- Completed in Python with documentation generated through Sphinx
+- If you didn't check out the documentation, you really should ↑↑↑↑
+
+---
+
+## Check out my linkedin!
+
+- LinkedIn: [linkedin.com/in/jesse-blankenship](https://www.linkedin.com/in/jesse-blankenship/)
+
+---
