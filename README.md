@@ -30,6 +30,7 @@ This GitHub profile highlights a selection of my academic projects. I hope you f
 
 - Projects completed with Python, MATLAB, C++
 - Current progress includes transient (implicit) solvers using TDMA for interative solving on 2D domains
+![](https://github.com/blankenshipj15/Numerical_HT/blob/main/fullyImplicitUnsteadyHeat/TransientTempBehavior.png)
 
 ---
 
