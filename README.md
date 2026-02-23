@@ -1,6 +1,6 @@
 # Thanks for visiting my GitHub!
 
-I'm a graduate student in Mechanical Engineering at **Georgia Tech**, with a background in **Nuclear Engineering**. My academic and professional interests lie at the intersection of:
+I'm a Mechanical Engineering graduate student at **Georgia Tech** with a background in heat transfer, fluid dynamics, and power systems (nuclear and conventional). My academic and professional interests lie at the intersection of:
 
 - **Numerical methods**
 - **Heat transfer**
