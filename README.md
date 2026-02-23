@@ -29,7 +29,8 @@ This GitHub profile highlights a selection of my academic projects. I hope you f
 > A collection of steady state and transient solvers for various heat transfer applications
 
 - Projects completed with Python, MATLAB, C++
-- Current progress includes transient (implicit) solvers using TDMA for interative solving on 2D domains
+- Current progress includes transient (implicit) solvers using TDMA for iterative solving on 2D domains
+- Work with SIMPLE algorithm, flux limiters, and deferred correction approaches to high order convection diffusion problems
 ![](https://github.com/blankenshipj15/Numerical_HT/blob/main/fullyImplicitUnsteadyHeat/TransientTempBehavior.png)
 
 ---
